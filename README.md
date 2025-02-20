@@ -1,2 +1,1 @@
-# my-first-project
-测试
+# About my first project on Github
